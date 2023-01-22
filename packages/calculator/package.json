@@ -1,7 +1,7 @@
 {
   "name": "@icore-wf/fs-calculator",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Developer starter template for Finsweet projects.",
   "homepage": "https://github.com/yperea/fs-stream-demo#readme",
   "license": "ISC",
