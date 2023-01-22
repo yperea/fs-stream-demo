@@ -1,5 +1,11 @@
 # @fake-client/alpha
 
+## 1.0.1
+
+### Patch Changes
+
+- f6886a2: Initial deployment
+
 ## 1.0.4
 
 ### Patch Changes
